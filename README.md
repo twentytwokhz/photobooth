@@ -6,7 +6,7 @@
 
 This is a Raspberry Pi project written in Python.
 
-It is based on [gphoto2](https://github.com/gphoto/gphoto2), [ImageMagick](https://github.com/ImageMagick/ImageMagick) and [Images2gif](https://github.com/isaacgerg/images2gif)
+It is based on [gphoto2](https://github.com/gphoto/gphoto2), [ImageMagick](https://github.com/ImageMagick/ImageMagick) and [Facebook Python SDK](https://github.com/mobolic/facebook-sdk)
 
 <b>Requirements:</b>
 
