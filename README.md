@@ -15,4 +15,5 @@ Requirements:
 7. Compatible DSLR/camera connected through USB
 
 This project is intended to be used as a mean of taking photos (at a specified interval and for a specified time period) from a connected camera and uploading these images to a Facebook page, Facebook profile or on Google Drive.
+
 Optionally the code will generate animated GIFs.
