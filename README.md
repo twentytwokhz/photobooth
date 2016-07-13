@@ -1,5 +1,7 @@
 # photobooth
 
+<i>Code coming soon!</i>
+
 <b>Raspberry Pi Photobooth</b>
 
 This is a Raspberry Pi project written in Python.
