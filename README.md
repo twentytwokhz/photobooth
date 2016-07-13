@@ -1,10 +1,12 @@
 # photobooth
 
-Raspberry Pi Photobooth
+<b>Raspberry Pi Photobooth</b>
 
 This is a Raspberry Pi project written in Python.
 
-Requirements:
+It is based on [gphoto2](https://github.com/gphoto/gphoto2), [ImageMagick](https://github.com/ImageMagick/ImageMagick) and [Images2gif](https://github.com/isaacgerg/images2gif)
+
+<b>Requirements:</b>
 
 1. A Raspberry Pi 2 Model B or newer
 2. A MicroUSB cable with a power adapter that can provide minimum 1000mA
