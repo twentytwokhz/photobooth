@@ -5,6 +5,7 @@ Raspberry Pi Photobooth
 This is a Raspberry Pi project.
 
 Requirements:
+
 1. A Raspberry Pi 2 Model B or newer
 2. A MicroUSB cable with a power adapter that can provide minimum 1000mA
 3. Wifi USB Stick LAN connection (optional)
