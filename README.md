@@ -2,7 +2,7 @@
 
 Raspberry Pi Photobooth
 
-This is a Raspberry Pi project.
+This is a Raspberry Pi project written in Python.
 
 Requirements:
 
