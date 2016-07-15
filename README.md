@@ -20,7 +20,7 @@ This project is intended to be used as a mean of taking photos (at a specified i
 
 Optionally the code will generate animated GIFs.
 
-Example usage:
+<b>Example usage:</b>
 
 <code>python photobooth.py 5 60</code>
 
