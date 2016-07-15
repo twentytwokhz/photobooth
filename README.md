@@ -19,3 +19,9 @@ It is based on [gphoto2](https://github.com/gphoto/gphoto2), [ImageMagick](https
 This project is intended to be used as a mean of taking photos (at a specified interval and for a specified time period) from a connected camera and uploading these images to a Facebook page, Facebook profile or on Google Drive.
 
 Optionally the code will generate animated GIFs.
+
+Example usage:
+
+<code>python photobooth.py 5 60</code>
+
+Takes a photo every 5 seconds for a period of 60 seconds. After that it will create a gif from the photos named result.gif
