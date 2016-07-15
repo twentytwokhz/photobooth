@@ -24,4 +24,4 @@ Optionally the code will generate animated GIFs.
 
 <code>python photobooth.py 5 60</code>
 
-Takes a photo every 5 seconds for a period of 60 seconds. After that it will create a gif from the photos named result.gif
+Takes a photo every 5 seconds for a period of 60 seconds. The photos will then be resized to 800x600 and a gif named result.gif will be generated.
